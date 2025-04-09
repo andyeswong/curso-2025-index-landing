@@ -468,7 +468,7 @@ export default function Home() {
                   <Clock className="h-6 w-6 text-[#3CBFB4] flex-shrink-0 mt-1" />
                   <div>
                     <h3 className="font-semibold text-[#3CBFB4]">Horario</h3>
-                    <p className="text-white/80">Registro: 8:45 PM</p>
+                    <p className="text-white/80">Registro: 8:45 AM</p>
                     <p className="text-white/80">Evento: 9:00 AM - 12:00 PM</p>
                   </div>
                 </div>
@@ -503,7 +503,7 @@ export default function Home() {
                 </div>
                 <div className="bg-[#1A1E2E]/50 rounded-lg p-4 border border-[#3CBFB4]/20 mt-4">
                   <p className="text-white/80 text-sm">
-                    El precio incluye acceso completo al curso, materiales digitales y certificado de participación.
+                    El precio incluye acceso completo al curso y materiales digitales.
                   </p>
                 </div>
               </div>
